@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ssiddhu1010-del.github.io/campus-cart-india/sitemap.xml
